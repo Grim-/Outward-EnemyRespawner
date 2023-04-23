@@ -1,2 +1,1 @@
-# Outward EnemyRespawner
- 
+# Outward Mod Template
